@@ -1,0 +1,15 @@
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.csproj.AssemblyReference.cache
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.AssemblyInfoInputs.cache
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.AssemblyInfo.cs
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/GB/11.04.22/Задача 2/bin/Debug/net6.0/Задача 2
+/Users/imac/Documents/GB/11.04.22/Задача 2/bin/Debug/net6.0/Задача 2.deps.json
+/Users/imac/Documents/GB/11.04.22/Задача 2/bin/Debug/net6.0/Задача 2.runtimeconfig.json
+/Users/imac/Documents/GB/11.04.22/Задача 2/bin/Debug/net6.0/Задача 2.dll
+/Users/imac/Documents/GB/11.04.22/Задача 2/bin/Debug/net6.0/Задача 2.pdb
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.dll
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/refint/Задача 2.dll
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.pdb
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/Задача 2.genruntimeconfig.cache
+/Users/imac/Documents/GB/11.04.22/Задача 2/obj/Debug/net6.0/ref/Задача 2.dll
