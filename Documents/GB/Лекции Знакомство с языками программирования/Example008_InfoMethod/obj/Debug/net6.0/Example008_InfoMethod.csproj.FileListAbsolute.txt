@@ -1,0 +1,15 @@
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/bin/Debug/net6.0/Example008_InfoMethod
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/bin/Debug/net6.0/Example008_InfoMethod.deps.json
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/bin/Debug/net6.0/Example008_InfoMethod.runtimeconfig.json
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/bin/Debug/net6.0/Example008_InfoMethod.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/bin/Debug/net6.0/Example008_InfoMethod.pdb
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.csproj.AssemblyReference.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.AssemblyInfoInputs.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.AssemblyInfo.cs
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/refint/Example008_InfoMethod.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.pdb
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/Example008_InfoMethod.genruntimeconfig.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example008_InfoMethod/obj/Debug/net6.0/ref/Example008_InfoMethod.dll
