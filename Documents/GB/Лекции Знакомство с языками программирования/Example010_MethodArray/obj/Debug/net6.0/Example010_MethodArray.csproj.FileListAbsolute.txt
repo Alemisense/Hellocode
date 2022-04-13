@@ -1,0 +1,15 @@
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.AssemblyReference.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfoInputs.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfo.cs
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.deps.json
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.runtimeconfig.json
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.pdb
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/refint/Example010_MethodArray.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.pdb
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.genruntimeconfig.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example010_MethodArray/obj/Debug/net6.0/ref/Example010_MethodArray.dll
