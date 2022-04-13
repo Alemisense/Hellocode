@@ -1,0 +1,15 @@
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/refint/Example011_ArrayLibrary.dll
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/imac/Documents/GB/Лекции Знакомство с языками программирования/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
